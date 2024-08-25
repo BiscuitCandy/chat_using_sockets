@@ -1,4 +1,4 @@
-# Project_1
+# CHAT USING SOCKETS
 - The following project contains three files
 - - The chat server - server.py
 - - The chat client - client.py
